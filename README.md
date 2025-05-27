@@ -63,6 +63,9 @@ Two edge curves (`v = -w/2` and `v = +w/2`) are sampled.
 
 - 3D surface plot via `matplotlib` (`plot_surface`)
 - Uses `viridis` colormap with shading and smooth interpolation
+- Here is the 3D plot generated from the parametric equations:
+
+![Möbius Strip Plot](Mobius_Script_Plot.png)
 
 ---
 
