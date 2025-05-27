@@ -98,7 +98,7 @@ Two edge curves (`v = -w/2` and `v = +w/2`) are sampled.
 3. Run the cell to compute and visualize the Möbius strip.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luvshanker14/python-_test/blob/main/Mobius_Script_1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Luvshanker14/mobius-strip-model/blob/main/Mobius_Script_1.ipynb)
 
 
 ---
